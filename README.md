@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+这玩意儿是不是不优化就很难用啊。。。
+
 <!--
 **October34th/October34th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
